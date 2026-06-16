@@ -1,0 +1,9 @@
+body{
+    background-color: #FDFAF6;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color: #000000;
+}
+.gray{
+    color: #5c2121;
+}
